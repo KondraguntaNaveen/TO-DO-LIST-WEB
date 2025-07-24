@@ -30,6 +30,6 @@ To run this project on your local machine.
 A short demo of this project has been shared on my LinkedIn as part of my internship task with InternPe.
 
 ## 📸 Preview
-
+<img width="1891" height="796" alt="Image" src="https://github.com/user-attachments/assets/a2e5cb65-8688-4bf7-9521-00ea07e623ed" />
 
 Happy coding! ✅
