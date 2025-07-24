@@ -10,8 +10,6 @@ This is a simple and user-friendly **To-Do List Application** built using **HTML
 - 💻 Clean and responsive design
 - ⚡ Instant updates with JavaScript (no page refresh)
 
-## 📸 Preview
-
 ## 📁 Project Structure
 
 to-do-list-app/
